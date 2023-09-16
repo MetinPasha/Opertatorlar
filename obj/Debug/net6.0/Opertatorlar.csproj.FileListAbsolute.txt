@@ -1,0 +1,14 @@
+D:\Sites\Opertatorlar\bin\Debug\net6.0\Opertatorlar.exe
+D:\Sites\Opertatorlar\bin\Debug\net6.0\Opertatorlar.deps.json
+D:\Sites\Opertatorlar\bin\Debug\net6.0\Opertatorlar.runtimeconfig.json
+D:\Sites\Opertatorlar\bin\Debug\net6.0\Opertatorlar.dll
+D:\Sites\Opertatorlar\bin\Debug\net6.0\Opertatorlar.pdb
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.AssemblyInfoInputs.cache
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.AssemblyInfo.cs
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.csproj.CoreCompileInputs.cache
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.dll
+D:\Sites\Opertatorlar\obj\Debug\net6.0\refint\Opertatorlar.dll
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.pdb
+D:\Sites\Opertatorlar\obj\Debug\net6.0\Opertatorlar.genruntimeconfig.cache
+D:\Sites\Opertatorlar\obj\Debug\net6.0\ref\Opertatorlar.dll
